@@ -31,6 +31,11 @@ This repository contains an Exploratory Data Analysis (EDA) project focused on t
   - Investigate the trends in content addition over the years.
   - Analyze the distribution of ratings, genres, and countries.
   - Explore the relationship between content duration and genre.
+- **Visualization**:
+- Visualize the distribution of content types (Movies vs. TV Shows) to understand the content landscape on Netflix.
+- Display trends in the number of titles added to Netflix over the years to analyze Netflix's content growth.
+- Show the distribution of content ratings to understand how different titles are rated.
+- Explore the top directors and most popular genres based on the number of titles.
 
 ## 🔧 Tools and Libraries Used
 
